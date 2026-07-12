@@ -119,29 +119,3 @@ Evaluation Metrics
 B.Tech – Computer Science (Data Science)
 
 Interested in Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence.
-
-## 📊 Visualizations
-
-### Correlation Heatmap
-
-![Correlation Heatmap](correlation_heatmap.png)
-
-### Student Distribution by Gender
-
-![Gender Distribution](distribution_by_gender.png)
-
-### Feature Importance (Random Forest)
-
-![Feature Importance](feature_importance(random_forest).png)
-
-### Impact of Test Preparation
-
-![Impact of Test Preparation](impact_of_test_preparation.png)
-
-### Model Comparison (R² Score)
-
-![Model Comparison](model_comparison(R2_score).png)
-
-### Test Preparation vs Average Score
-
-![Test Preparation vs Average Score](test_preparation_vs_average_score.png)
