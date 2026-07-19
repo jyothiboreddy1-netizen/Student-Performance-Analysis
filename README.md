@@ -112,6 +112,12 @@ Evaluation Metrics
 
 ---
 
+## 📊 Live Power BI Dashboard
+
+Explore the interactive Student Performance Analysis dashboard:
+
+[View Interactive Power BI Dashboard](https://app.powerbi.com/links/KRWRfGGpqo?ctid=9a8b1856-f41d-4ec2-aa65-cb2c5d8f5f0e&pbi_source=linkShare)
+
 ## 👨‍💻 Author
 
 **Jyothi**
