@@ -8,8 +8,6 @@ This project analyzes student academic performance using Exploratory Data Analys
 
 The objective is to identify the factors influencing student performance and build predictive models for estimating average scores.
 
----
-
 ## 🎯 Objectives
 
 - Clean and preprocess educational data
