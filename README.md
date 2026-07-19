@@ -17,8 +17,6 @@ The objective is to identify the factors influencing student performance and bui
 - Build predictive machine learning models
 - Generate actionable educational insights
 
----
-
 ## 📂 Dataset
 
 The dataset contains information about students, including:
@@ -31,8 +29,6 @@ The dataset contains information about students, including:
 - Math Score
 - Reading Score
 - Writing Score
-
----
 
 ## 🛠 Technologies Used
 
@@ -47,8 +43,6 @@ The dataset contains information about students, including:
 - Plotly
 - Power BI
 
----
-
 ## 📊 Project Workflow
 
 1. Data Understanding
@@ -58,8 +52,6 @@ The dataset contains information about students, including:
 5. Statistical Analysis
 6. Machine Learning
 7. Business Insights
-
----
 
 ## 📈 Key Visualizations
 
@@ -71,8 +63,6 @@ The dataset contains information about students, including:
 - Test Preparation Impact
 - Feature Importance
 - Model Comparison
-
----
 
 ## 🤖 Machine Learning Models
 
@@ -88,8 +78,6 @@ Evaluation Metrics
 - RMSE
 - R² Score
 
----
-
 ## 💡 Key Findings
 
 - Students completing the test preparation course generally performed better.
@@ -98,8 +86,6 @@ Evaluation Metrics
 - Students with higher parental education levels tend to achieve better academic performance.
 - Ensemble models such as Random Forest and Gradient Boosting outperform simpler regression models.
 
----
-
 ## 🚀 Future Improvements
 
 - Hyperparameter tuning
@@ -107,8 +93,6 @@ Evaluation Metrics
 - Cross-validation
 - Interactive Streamlit dashboard
 - Student performance prediction web application
-
----
 
 ## 📊 Live Power BI Dashboard
 
